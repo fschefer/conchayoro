@@ -1,2 +1,0 @@
-# conchayoro
-Learning app
